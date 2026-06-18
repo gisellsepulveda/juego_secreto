@@ -25,6 +25,11 @@ body::before {
     height: 100%;
     opacity: 0.4;
 }
+p{
+    display: block;
+
+}
+
 
 .container {
     width: 1200px;

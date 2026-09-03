@@ -4,7 +4,7 @@
 
 El objetivo es simple: adivinar el número secreto en la menor cantidad de intentos posible, utilizando las pistas que te da el juego.
 
----
+-----
 
 ## ✨ Características Principales
 
